@@ -29,7 +29,7 @@ env/
 ENV/
 .env
 .venv
-
+ref/
 # IDE
 .idea/
 .vscode/
